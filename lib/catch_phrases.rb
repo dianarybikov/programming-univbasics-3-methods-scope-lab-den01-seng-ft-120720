@@ -20,4 +20,5 @@ end
 link
 
 def all_phrases
-  mario = ""
+  mario = "It's-a me, Mario"
+  toadstool = ""

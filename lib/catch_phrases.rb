@@ -17,4 +17,3 @@ def all_phrases
   print mario, toadstool, link
 end
 end 
-all_phrases

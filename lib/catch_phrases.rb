@@ -20,7 +20,4 @@ end
 link
 
 def all_phrases
- 
-end
-
-all_phrases
+  mario = ""

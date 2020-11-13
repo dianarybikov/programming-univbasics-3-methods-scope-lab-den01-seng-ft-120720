@@ -20,10 +20,7 @@ end
 link
 
 def all_phrases
-  mario = "It's-a me, Mario!"
-  toadstool = "Thank You Mario! But Our Princess Is In Another Castle! "
-  link = "It's Dangerous To Go Alone! Take This."
-puts(mario + toadstool + link)
+ puts(mario + toadstool + link)
 end
 
 all_phrases

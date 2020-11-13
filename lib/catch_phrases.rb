@@ -16,4 +16,4 @@ def all_phrases
   link = "It's Dangerous To Go Alone! Take This."
   print mario, toadstool, link
 end
-end 
+

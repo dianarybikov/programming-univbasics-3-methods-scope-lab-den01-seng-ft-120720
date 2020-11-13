@@ -20,7 +20,7 @@ end
 link
 
 def all_phrases
- puts(mario.method + toadstool.method + link.method)
+ puts(mario.method, toadstool.method, link.method)
 end
 
 all_phrases

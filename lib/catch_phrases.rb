@@ -19,8 +19,8 @@ end
 
 link
 
-def all_phrases(mario.method, toadstool.method, link.method)
- puts(mario.method, toadstool.method, link.method)
+def all_phrases
+ 
 end
 
 all_phrases
